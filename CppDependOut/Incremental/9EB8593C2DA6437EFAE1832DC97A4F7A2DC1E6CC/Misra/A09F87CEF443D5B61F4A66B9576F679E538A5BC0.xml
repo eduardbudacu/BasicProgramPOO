@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cppdepend-plugin tool="Misra">
+<file path="d:\dev.nicu\poo\basicprogram\basicprogram\adaugaanimalcontroller.cpp"><violation beginline="12" endline="12" rule="Rule10-3-2" ruleset="Classes">
+</violation><violation beginline="24" endline="24" rule="Rule18-4-1" ruleset="Library">
+</violation></file><file path="d:\dev.nicu\poo\basicprogram\basicprogram\adaugaanimalcontroller.h"><violation beginline="11" endline="11" rule="Rule10-3-2" ruleset="Classes">
+</violation></file><file path="d:\dev.nicu\poo\basicprogram\basicprogram\animal.h"><violation beginline="14" endline="14" rule="Rule7-5-4" ruleset="Declarations">
+</violation><violation beginline="15" endline="15" rule="Rule7-5-4" ruleset="Declarations">
+</violation></file><file path="d:\dev.nicu\poo\basicprogram\basicprogram\registruanimale.h"><violation beginline="13" endline="13" rule="Rule7-5-4" ruleset="Declarations">
+</violation></file></cppdepend-plugin>

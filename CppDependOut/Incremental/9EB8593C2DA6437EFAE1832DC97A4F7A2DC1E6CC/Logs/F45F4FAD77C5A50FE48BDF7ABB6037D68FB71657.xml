@@ -1,0 +1,8 @@
+<log>
+ <error level="warning" id="warn_cxx98_compat_nullptr" file="D:\dev.nicu\poo\BasicProgram\BasicProgram\Animal.cpp" line="7" col="15" msg="&apos;nullptr&apos; is incompatible with C++98" />
+ <error level="error" id="err_undeclared_var_use" file="D:\dev.nicu\poo\BasicProgram\BasicProgram\Animal.cpp" line="12" col="24" msg="use of undeclared identifier &apos;strlen&apos;" />
+ <error level="error" id="err_undeclared_var_use" file="D:\dev.nicu\poo\BasicProgram\BasicProgram\Animal.cpp" line="13" col="2" msg="use of undeclared identifier &apos;strcpy&apos;" />
+ <error level="error" id="err_undeclared_var_use" file="D:\dev.nicu\poo\BasicProgram\BasicProgram\Animal.cpp" line="26" col="24" msg="use of undeclared identifier &apos;strlen&apos;" />
+ <error level="error" id="err_undeclared_var_use" file="D:\dev.nicu\poo\BasicProgram\BasicProgram\Animal.cpp" line="27" col="2" msg="use of undeclared identifier &apos;strcpy&apos;" />
+ <error level="warning" id="warn_cxx98_compat_no_newline_eof" file="D:\dev.nicu\poo\BasicProgram\BasicProgram\Animal.cpp" line="50" col="2" msg="C++98 requires newline at end of file" />
+</log>

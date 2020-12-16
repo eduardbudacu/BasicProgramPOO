@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cppdepend-plugin tool="Misra">
+<file path="d:\dev.nicu\poo\basicprogram\basicprogram\basicprogram.cpp"><violation beginline="9" endline="9" rule="Rule18-4-1" ruleset="Library">
+</violation></file><file path="d:\dev.nicu\poo\basicprogram\basicprogram\program.h"><violation beginline="18" endline="18" rule="Rule7-5-4" ruleset="Declarations">
+</violation></file></cppdepend-plugin>

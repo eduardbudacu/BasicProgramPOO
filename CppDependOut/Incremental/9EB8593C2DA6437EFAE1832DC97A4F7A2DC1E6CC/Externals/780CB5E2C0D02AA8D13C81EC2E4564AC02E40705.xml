@@ -1,0 +1,83 @@
+<Externals>
+<cts Spec="&lt;char&gt;" namespace="std" access="none" depth="0" pod="true" kind="struct" name="char_traits" id="147fd06de10d2b5d00cffc91b71a1cb9_76e43d9fa50c2ce16dafa9452550a098" file="3" linestart="274" lineend="382" previous="7f1ee2aa67982e3a7cc901f46e69bad7_76e43d9fa50c2ce16dafa9452550a098"/>
+<f name="getch" id="d61c7a4adee35be9b30ca1cd92ecb19c_b11e6563a8056682f6d6de0745dc9d19" file="4" linestart="109" lineend="109" extC="true" imported="true" access="none">
+<Attributed/>
+</f>
+<f namespace="std" name="operator&lt;&lt;" id="3d2f6f82b1e458363d73e8cad116fedc_a8b001da139eef9b7b8dd07e8c06f59d" file="5" linestart="555" lineend="564" operator="true" access="none" inline="true" hasbody="true" isdef="true">
+<fpt cc="cdecl" proto="basic_ostream&lt;char, _Traits&gt; &amp;">
+<lrf>
+<tss>
+<templatebase id="3d2f6f82b1e458363d73e8cad116fedc_7df99f34c778205aaa2e1759bec30243"/>
+<template_arguments>
+<bt name="char"/>
+<ttp/>
+</template_arguments>
+</tss>
+</lrf>
+</fpt>
+<p name="__out" proto="basic_ostream&lt;char, _Traits&gt; &amp;" isRef="true" access2="none">
+<lrf>
+<tss>
+<templatebase id="3d2f6f82b1e458363d73e8cad116fedc_7df99f34c778205aaa2e1759bec30243"/>
+<template_arguments>
+<bt name="char"/>
+<ttp/>
+</template_arguments>
+</tss>
+</lrf>
+</p>
+<p name="__s" proto="const char *" isPtr="true" isLiteral="true" access2="none">
+<pt>
+<QualType const="true">
+<bt name="char"/>
+</QualType>
+</pt>
+</p>
+</f>
+<ft name="operator&lt;&lt;" id="3d2f6f82b1e458363d73e8cad116fedc_3298dfe44ddb6b69da98967bbc11dbef" file="5" linestart="554" lineend="564">
+<template_parameters>
+<ttp name="_Traits" id="3d2f6f82b1e458363d73e8cad116fedc_29653cbbe518513f057baf83aeea343a" depth="0" index="0" proto="type-parameter-0-0"/>
+</template_parameters>
+<f namespace="std" name="operator&lt;&lt;" id="3d2f6f82b1e458363d73e8cad116fedc_a8b001da139eef9b7b8dd07e8c06f59d" file="5" linestart="555" lineend="564" operator="true" access="none" inline="true" hasbody="true" isdef="true">
+<fpt cc="cdecl" proto="basic_ostream&lt;char, _Traits&gt; &amp;">
+<lrf>
+<tss>
+<templatebase id="3d2f6f82b1e458363d73e8cad116fedc_7df99f34c778205aaa2e1759bec30243"/>
+<template_arguments>
+<bt name="char"/>
+<ttp/>
+</template_arguments>
+</tss>
+</lrf>
+</fpt>
+<p name="__out" proto="basic_ostream&lt;char, _Traits&gt; &amp;" isRef="true" access2="none">
+<lrf>
+<tss>
+<templatebase id="3d2f6f82b1e458363d73e8cad116fedc_7df99f34c778205aaa2e1759bec30243"/>
+<template_arguments>
+<bt name="char"/>
+<ttp/>
+</template_arguments>
+</tss>
+</lrf>
+</p>
+<p name="__s" proto="const char *" isPtr="true" isLiteral="true" access2="none">
+<pt>
+<QualType const="true">
+<bt name="char"/>
+</QualType>
+</pt>
+</p>
+</f>
+</ft>
+<v namespace="std" name="cout" proto="ostream" id="9f47d3a42b971eae2386ada3fc2d5095_fbe8f6ba0143c688ba07f32590d95a55" file="6" linestart="61" lineend="61" storage="extern" access2="none">
+<Tdef>
+<tss>
+<templatebase id="6b5c063113c740d23989a141a6f6047e_7df99f34c778205aaa2e1759bec30243"/>
+<template_arguments>
+<bt name="char"/>
+</template_arguments>
+</tss>
+</Tdef>
+</v>
+</Externals>

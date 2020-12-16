@@ -1,0 +1,3 @@
+<log>
+ <error level="warning" id="warn_ctor_parm_shadows_field" file="D:\dev.nicu\poo\BasicProgram\BasicProgram\AdaugaAnimalController.cpp" line="7" col="65" msg="constructor parameter &apos;registru&apos; shadows the field &apos;registru&apos; of &apos;AdaugaAnimalController&apos;" />
+</log>

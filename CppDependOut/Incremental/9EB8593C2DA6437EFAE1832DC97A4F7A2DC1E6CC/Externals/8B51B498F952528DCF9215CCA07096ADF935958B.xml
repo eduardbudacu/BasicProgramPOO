@@ -1,0 +1,141 @@
+<Externals>
+<tm namespace="std" access="none" depth="1" kind="class" name="vector" id="6ae702d7f29805316aaac06370cd0c48_3d0ab7465d6b9448b8c01dc907d3e25b" file="6" linestart="338" lineend="1729">
+<template_parameters>
+<ttp name="_Tp" id="6ae702d7f29805316aaac06370cd0c48_88b0a4aa2bf73989d2e50eddc8e9d382" depth="0" index="0" proto="type-parameter-0-0"/>
+<ttp name="_Alloc" id="6ae702d7f29805316aaac06370cd0c48_415b2c0180cb321c6095aa8e8e14a027" depth="0" index="1" proto="type-parameter-0-1">
+<ety>
+<tss>
+<templatebase id="ca416245bebde1f080155d5e4e3060c6_07566aa809aee0bdf1c0fac16e19fa85"/>
+<template_arguments>
+<ttp/>
+</template_arguments>
+</tss>
+</ety>
+</ttp>
+</template_parameters>
+<cr namespace="std" access="none" depth="1" kind="class" name="vector" id="6ae702d7f29805316aaac06370cd0c48_3d0ab7465d6b9448b8c01dc907d3e25b" file="6" linestart="339" lineend="1729">
+<base access="protected">
+<tss>
+<templatebase id="6ae702d7f29805316aaac06370cd0c48_5caaa986413fd442b51924fa25d462da"/>
+<template_arguments>
+<ttp/>
+<ttp/>
+</template_arguments>
+</tss>
+</base>
+<cr access="public" kind="class" name="vector" id="6ae702d7f29805316aaac06370cd0c48_c48c2bde2c144b6d614d5912fe2271ba" file="6" linestart="339" lineend="339"/>
+<m name="size" id="6ae702d7f29805316aaac06370cd0c48_4d302b215534245d1eabe876b749053e" file="6" linestart="804" lineend="806" access="public" hasbody="true" isdef="true">
+<fpt cc="cdecl" const="true" proto="size_type">
+<Tdef>
+<Tdef>
+<bt name="unsigned long long"/>
+</Tdef>
+</Tdef>
+</fpt>
+</m>
+<m name="operator[]" id="6ae702d7f29805316aaac06370cd0c48_400a3c12f6c93a2ac6f2d26953228e49" file="6" linestart="929" lineend="934" operator="true" access="public" hasbody="true" isdef="true">
+<fpt cc="cdecl" proto="reference">
+<Tdef>
+<DependentName/>
+</Tdef>
+</fpt>
+<p name="__n" proto="size_type" isLiteral="true" isPrimitive="true" access2="none">
+<Tdef>
+<Tdef>
+<bt name="unsigned long long"/>
+</Tdef>
+</Tdef>
+</p>
+</m>
+<m name="push_back" id="6ae702d7f29805316aaac06370cd0c48_381ab415f5d7e80908104a5022251e65" file="6" linestart="1089" lineend="1091" access="public" hasbody="true" isdef="true">
+<fpt cc="cdecl" proto="void">
+<bt name="void"/>
+</fpt>
+<p name="__x" proto="value_type &amp;&amp;" isRef="true" access2="none">
+<rrf>
+<Tdef>
+<ttp/>
+</Tdef>
+</rrf>
+</p>
+</m>
+</cr>
+</tm>
+<cr access="none" depth="0" kind="class" name="Controller" id="0fa3026f38d2646100b772f3cbb2ac39_0a67865d3892c65f1535c39365886af7" file="7" linestart="3" lineend="12">
+<m name="run" id="0fa3026f38d2646100b772f3cbb2ac39_a7d9addf9f83ca11e67ea4772d13f485" file="7" linestart="9" lineend="9" pure="true" virtual="true" access="public">
+<fpt cc="cdecl" proto="void">
+<bt name="void"/>
+</fpt>
+</m>
+</cr>
+<cr access="none" depth="0" kind="class" name="RegistruAnimale" id="d0e82a84f9ad25381b339b4e004c744f_24c1ea9708d0645a112536b6d4017954" file="8" linestart="6" lineend="15"/>
+<cr access="none" depth="0" kind="class" name="Menu" id="15cc9a0d2af48d95e7a391e09db8f8a7_f57ea31d2fda626d2bed2d3fd886b0fb" file="9" linestart="10" lineend="18">
+<m name="afisare" id="15cc9a0d2af48d95e7a391e09db8f8a7_6c28893ca1bb555a2f7084066897ab78" file="9" linestart="16" lineend="16" access="public">
+<fpt cc="cdecl" proto="void">
+<bt name="void"/>
+</fpt>
+</m>
+<m name="alegeOptiune" id="15cc9a0d2af48d95e7a391e09db8f8a7_9c3c73d121740a246418811d9b1e295e" file="9" linestart="17" lineend="17" access="public">
+<fpt cc="cdecl" proto="void">
+<bt name="void"/>
+</fpt>
+</m>
+</cr>
+<cr access="none" depth="1" kind="class" name="AdaugaAnimalController" id="cb770dd5bbde50e6f5f8b8b21bae3bdb_07743a1c8b25706f3924af45af37f54a" file="2" linestart="5" lineend="12">
+<base access="public">
+<rt>
+<cr id="0fa3026f38d2646100b772f3cbb2ac39_0a67865d3892c65f1535c39365886af7"/>
+</rt>
+</base>
+<c name="AdaugaAnimalController" id="cb770dd5bbde50e6f5f8b8b21bae3bdb_ef96743a81a7bcf2090be33ec4054974" file="2" linestart="10" lineend="10" access="public">
+<fpt cc="cdecl" proto="void">
+<bt name="void"/>
+</fpt>
+<p name="registru" proto="RegistruAnimale *" isPtr="true" isLiteral="true" access2="none">
+<pt>
+<rt>
+<cr id="d0e82a84f9ad25381b339b4e004c744f_24c1ea9708d0645a112536b6d4017954"/>
+</rt>
+</pt>
+</p>
+</c>
+</cr>
+<cr access="none" depth="1" kind="class" name="ListareAnimaleController" id="1ed73cc2f78cf482eda8b81ac1676b1b_6aacee8b6326d9ddbc39768c2173dda0" file="3" linestart="5" lineend="13">
+<base access="public">
+<rt>
+<cr id="0fa3026f38d2646100b772f3cbb2ac39_0a67865d3892c65f1535c39365886af7"/>
+</rt>
+</base>
+<c name="ListareAnimaleController" id="1ed73cc2f78cf482eda8b81ac1676b1b_684aabad6dbee1715aa6598d90ea1ce2" file="3" linestart="11" lineend="11" access="public">
+<fpt cc="cdecl" proto="void">
+<bt name="void"/>
+</fpt>
+<p name="registru" proto="RegistruAnimale *" isPtr="true" isLiteral="true" access2="none">
+<pt>
+<rt>
+<cr id="d0e82a84f9ad25381b339b4e004c744f_24c1ea9708d0645a112536b6d4017954"/>
+</rt>
+</pt>
+</p>
+</c>
+</cr>
+<cr access="none" depth="1" kind="class" name="IncarcareDateController" id="6529fc579b4661002901f51517d83ca9_84e6091df505ecd004c868e4dac71d64" file="4" linestart="5" lineend="12">
+<base access="public">
+<rt>
+<cr id="0fa3026f38d2646100b772f3cbb2ac39_0a67865d3892c65f1535c39365886af7"/>
+</rt>
+</base>
+<c name="IncarcareDateController" id="6529fc579b4661002901f51517d83ca9_fbaaf5be9951ace3881bbf14fa83f03b" file="4" linestart="10" lineend="10" access="public">
+<fpt cc="cdecl" proto="void">
+<bt name="void"/>
+</fpt>
+<p name="registru" proto="RegistruAnimale *" isPtr="true" isLiteral="true" access2="none">
+<pt>
+<rt>
+<cr id="d0e82a84f9ad25381b339b4e004c744f_24c1ea9708d0645a112536b6d4017954"/>
+</rt>
+</pt>
+</p>
+</c>
+</cr>
+</Externals>

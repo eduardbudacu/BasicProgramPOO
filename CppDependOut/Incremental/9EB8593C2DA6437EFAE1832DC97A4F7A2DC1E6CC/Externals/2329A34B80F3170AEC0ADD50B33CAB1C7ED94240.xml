@@ -1,0 +1,29 @@
+<Externals>
+<cr namespace="std.__cxx11" access="none" kind="class" name="basic_string" id="7f1ee2aa67982e3a7cc901f46e69bad7_eec936a7b808facd5a6a87bf310b7f8c" file="4" linestart="71" lineend="71"/>
+<cr namespace="std" access="none" depth="1" kind="class" name="vector" id="6ae702d7f29805316aaac06370cd0c48_3d0ab7465d6b9448b8c01dc907d3e25b" file="5" linestart="339" lineend="1729">
+<base access="protected">
+<tss>
+<templatebase id="6ae702d7f29805316aaac06370cd0c48_5caaa986413fd442b51924fa25d462da"/>
+<template_arguments>
+<ttp/>
+<ttp/>
+</template_arguments>
+</tss>
+</base>
+</cr>
+<cr access="none" depth="0" kind="class" name="Controller" id="0fa3026f38d2646100b772f3cbb2ac39_0a67865d3892c65f1535c39365886af7" file="6" linestart="3" lineend="12"/>
+<cr access="none" depth="0" kind="class" name="RegistruAnimale" id="d0e82a84f9ad25381b339b4e004c744f_24c1ea9708d0645a112536b6d4017954" file="7" linestart="6" lineend="15"/>
+<cr access="none" depth="0" kind="class" name="Menu" id="15cc9a0d2af48d95e7a391e09db8f8a7_f57ea31d2fda626d2bed2d3fd886b0fb" file="2" linestart="10" lineend="18"/>
+<cr access="none" depth="0" kind="class" name="Program" id="023495edbf80bbb30d264a781037caf6_071623202c0ee5e872eeaa5cc484292f" file="3" linestart="9" lineend="20" previous="15cc9a0d2af48d95e7a391e09db8f8a7_071623202c0ee5e872eeaa5cc484292f">
+<c name="Program" id="023495edbf80bbb30d264a781037caf6_3085daaccbe94bd8503abfbd11fe92f8" file="3" linestart="16" lineend="16" access="public">
+<fpt cc="cdecl" proto="void">
+<bt name="void"/>
+</fpt>
+</c>
+<m name="run" id="023495edbf80bbb30d264a781037caf6_a50425e3e90fb7fa202f6e97d0d3a7b8" file="3" linestart="18" lineend="18" access="public">
+<fpt cc="cdecl" proto="void">
+<bt name="void"/>
+</fpt>
+</m>
+</cr>
+</Externals>

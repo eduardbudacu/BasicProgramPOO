@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<InfoWarnings>
+  <Info>Begin analysis with CppDepend v2020.1.0.35</Info>
+  <Info>No baseline for comparison defined.</Info>
+  <Info>The parser used is Clang</Info>
+  <Info>4 Cores are used, you can change this value from the menu Tools-&gt;Options-&gt;Parser Configuration</Info>
+  <ClangError>Project:BasicProgram=&gt;use of undeclared identifier 'strlen' at D:\dev.nicu\poo\BasicProgram\BasicProgram\Animal.cpp:12:24</ClangError>
+  <ClangError>Project:BasicProgram=&gt;use of undeclared identifier 'strcpy' at D:\dev.nicu\poo\BasicProgram\BasicProgram\Animal.cpp:13:2</ClangError>
+  <ClangError>Project:BasicProgram=&gt;use of undeclared identifier 'system' at D:\dev.nicu\poo\BasicProgram\BasicProgram\Menu.cpp:20:2</ClangError>
+  <Warning>The project BasicProgram contains 3 Clang errors, to see them you can activate the Clang parsing errors tab.</Warning>
+  <Info>No dependency cycle detected in Projects referencement graph.</Info>
+  <Info>Analyse dependencies of your application.</Info>
+  <Info>Log trend metrics values.</Info>
+  <Info>Execute queries and rules.</Info>
+  <Info>CppDepend analysis done. Duration: 00:00:14</Info>
+  <Info>Building the report (standard).</Info>
+</InfoWarnings>

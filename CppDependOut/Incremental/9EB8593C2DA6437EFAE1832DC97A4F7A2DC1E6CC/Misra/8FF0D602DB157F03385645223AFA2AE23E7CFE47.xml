@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cppdepend-plugin tool="Misra">
+<file path="d:\cppdepend\defaulttoolchain\compiler\include\c++\bits\stl_iterator.h"><violation beginline="761" endline="761" rule="Rule7-5-4" ruleset="Declarations">
+</violation></file><file path="d:\dev.nicu\poo\basicprogram\basicprogram\animal.h"><violation beginline="21" endline="21" rule="Rule7-5-4" ruleset="Declarations">
+</violation></file><file path="d:\dev.nicu\poo\basicprogram\basicprogram\controller.h"><violation beginline="11" endline="11" rule="Rule7-5-4" ruleset="Declarations">
+</violation></file><file path="d:\dev.nicu\poo\basicprogram\basicprogram\listareanimalecontroller.cpp"><violation beginline="10" endline="10" rule="Rule10-3-2" ruleset="Classes">
+</violation></file><file path="d:\dev.nicu\poo\basicprogram\basicprogram\listareanimalecontroller.h"><violation beginline="12" endline="12" rule="Rule10-3-2" ruleset="Classes">
+</violation></file><file path="d:\dev.nicu\poo\basicprogram\basicprogram\registruanimale.h"><violation beginline="14" endline="14" rule="Rule7-5-4" ruleset="Declarations">
+</violation></file></cppdepend-plugin>

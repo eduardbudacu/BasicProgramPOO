@@ -1,0 +1,4 @@
+<log>
+ <error level="warning" id="warn_ctor_parm_shadows_field" file="D:\dev.nicu\poo\BasicProgram\BasicProgram\ListareAnimaleController.cpp" line="6" col="69" msg="constructor parameter &apos;registru&apos; shadows the field &apos;registru&apos; of &apos;ListareAnimaleController&apos;" />
+ <error level="warning" id="warn_impcast_integer_64_32" file="D:\dev.nicu\poo\BasicProgram\BasicProgram\ListareAnimaleController.cpp" line="12" col="27" msg="implicit conversion loses integer precision: &apos;size_type&apos; (aka &apos;unsigned long long&apos;) to &apos;int&apos;" />
+</log>

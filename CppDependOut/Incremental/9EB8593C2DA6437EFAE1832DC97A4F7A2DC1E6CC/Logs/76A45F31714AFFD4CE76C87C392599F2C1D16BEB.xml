@@ -1,0 +1,6 @@
+<log>
+ <error level="warning" id="warn_ctor_parm_shadows_field" file="D:\dev.nicu\poo\BasicProgram\BasicProgram\Menu.cpp" line="8" col="21" msg="constructor parameter &apos;program&apos; shadows the field &apos;program&apos; of &apos;Menu&apos;" />
+ <error level="error" id="err_undeclared_var_use" file="D:\dev.nicu\poo\BasicProgram\BasicProgram\Menu.cpp" line="20" col="2" msg="use of undeclared identifier &apos;system&apos;" />
+ <error level="warning" id="warn_cxx98_compat_auto_type_specifier" file="D:\dev.nicu\poo\BasicProgram\BasicProgram\Menu.cpp" line="22" col="7" msg="&apos;auto&apos; type specifier is incompatible with C++98" />
+ <error level="warning" id="warn_mixed_sign_comparison" file="D:\dev.nicu\poo\BasicProgram\BasicProgram\Menu.cpp" line="36" col="15" msg="comparison of integers of different signs: &apos;int&apos; and &apos;size_type&apos; (aka &apos;unsigned long long&apos;)" />
+</log>

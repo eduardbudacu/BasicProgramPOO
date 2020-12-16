@@ -1,0 +1,17 @@
+d:\dev.nicu\poo\basicprogram\basicprogram\adaugaanimalcontroller.h
+d:\dev.nicu\poo\basicprogram\basicprogram\animal.h
+d:\dev.nicu\poo\basicprogram\basicprogram\controller.h
+d:\dev.nicu\poo\basicprogram\basicprogram\incarcaredatecontroller.h
+d:\dev.nicu\poo\basicprogram\basicprogram\listareanimalecontroller.h
+d:\dev.nicu\poo\basicprogram\basicprogram\menu.h
+d:\dev.nicu\poo\basicprogram\basicprogram\program.h
+d:\dev.nicu\poo\basicprogram\basicprogram\registruanimale.h
+d:\dev.nicu\poo\basicprogram\basicprogram\adaugaanimalcontroller.cpp
+d:\dev.nicu\poo\basicprogram\basicprogram\animal.cpp
+d:\dev.nicu\poo\basicprogram\basicprogram\basicprogram.cpp
+d:\dev.nicu\poo\basicprogram\basicprogram\controller.cpp
+d:\dev.nicu\poo\basicprogram\basicprogram\incarcaredatecontroller.cpp
+d:\dev.nicu\poo\basicprogram\basicprogram\listareanimalecontroller.cpp
+d:\dev.nicu\poo\basicprogram\basicprogram\menu.cpp
+d:\dev.nicu\poo\basicprogram\basicprogram\program.cpp
+d:\dev.nicu\poo\basicprogram\basicprogram\registruanimale.cpp

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cppdepend-plugin tool="Misra">
+<file path="d:\dev.nicu\poo\basicprogram\basicprogram\controller.h"><violation beginline="11" endline="11" rule="Rule7-5-4" ruleset="Declarations">
+</violation></file><file path="d:\dev.nicu\poo\basicprogram\basicprogram\incarcaredatecontroller.cpp"><violation beginline="8" endline="8" rule="Rule10-3-2" ruleset="Classes">
+</violation></file><file path="d:\dev.nicu\poo\basicprogram\basicprogram\incarcaredatecontroller.h"><violation beginline="11" endline="11" rule="Rule10-3-2" ruleset="Classes">
+</violation></file></cppdepend-plugin>
